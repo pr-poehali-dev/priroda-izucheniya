@@ -8,7 +8,8 @@ export default {
 		"./app/**/*.{ts,tsx}",
 		"./src/**/*.{ts,tsx}",
 		"./index.html",
-		"./a.html"
+		"./a.html",
+			"./time_1744570276_f033a120.html"
 	],
 	prefix: "",
 	theme: {
